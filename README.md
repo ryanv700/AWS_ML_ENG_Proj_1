@@ -29,6 +29,7 @@ I would spend more time trying to Engineer more features as this is where I thin
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 
+![hyperparameter_table.png](/hyperparameter_table.png)
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
@@ -39,4 +40,7 @@ I would spend more time trying to Engineer more features as this is where I thin
 ![model_test_score.png](/model_test_score.png)
 
 ## Summary
-TODO: Add your explanation
+Overall the AutoGluon Model produced sold results! This process teaches us that AutoML can be a very good starting point when getting a baseline performance for a potential model. 
+This project also demonstrates that we cannot forget the importance of feature engineering as this resulting in a very significant model performance improvement even when using 
+very computationally large and complex state of the art ensemble models.
+
