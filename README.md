@@ -5,7 +5,7 @@
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
 I realized that for the model it was possible for a prediction to be negative. In order to submit the output of the predictor we needed to change all negative values to zero.
 
-### What was the top ranked model that performed?
+### What was the top ranked model that performed?  
 Across all three tests the weighted ensemble with three layers of stacking (WeightedEnsemble_L3) was consistently the best performing.
 
 ## Exploratory data analysis and feature creation
